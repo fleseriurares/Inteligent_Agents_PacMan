@@ -1,7 +1,7 @@
 # Adversarial Search and Uninformed/ Informed Search Algorithms for Pac-Man # 🟡👾
 
 ## Overview
-This project applies various artificial intelligence techniques to the classic Pac-Man game. It includes implementations of different search algorithms to navigate and solve problems in Pac-Man's maze environment. The main focus is on three categories of search algorithms: **Uninformed Search**, **Informed Search**, and **Adversarial Search**.
+This repository contains a Python implementation of various artificial intelligence techniques to the classic Pac-Man game. It includes implementations of different search algorithms to navigate and solve problems in Pac-Man's maze environment. The main focus is on three categories of search algorithms: **Uninformed Search**, **Informed Search**, and **Adversarial Search**.
 
 ### 1. Uninformed Search
 Uninformed search algorithms explore the state space without any additional information about the goal. The following algorithms are implemented:
